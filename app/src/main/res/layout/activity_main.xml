@@ -5,6 +5,7 @@
     android:id="@+id/password_txt"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#82C3EF"
     tools:context=".MainActivity">
 
     <TextView
